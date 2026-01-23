@@ -10,4 +10,5 @@ Upload CSV with columns: `id,elev,slope,lulc,soil,cn`. Create 37 rows: `0=center
 #### [earthmap.org](https://earthmap.org) 
 ## CSV Template
 #### [![docs.google.com](https://docs.google.com/spreadsheets/d/1IvLQsOliTf0UMMjvgj9D8yaozXSGRVr1quZ2IWoaBNQ/edit?usp=sharing)](https://docs.google.com/spreadsheets/d/1IvLQsOliTf0UMMjvgj9D8yaozXSGRVr1quZ2IWoaBNQ/edit?usp=sharing)
-
+## XGBoost Companion
+[![Open in Colab](https://colab.research.google.com/drive/1lzSU69Zem-RG74qsKOQSc_QEGF0xj_5L?usp=sharing)
